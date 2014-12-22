@@ -35,11 +35,22 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The doctrines triall shewing both the necessity and the way of trying what is taught, in a sermon vp
+
+1. TO MY REVErend
+Friend, Mr. Dr.
+Chaderton, Maſter
+of Emanuel Colledge
+in Cambridge.
+
 #####Body#####
-The doctrines triall shewing both the necessity and the way of trying what is taught, in a sermon vp
+
+1. The Doctrines
+triall.
+
 #####Back#####
-The doctrines triall shewing both the necessity and the way of trying what is taught, in a sermon vp
+
+1. Erratum;
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
